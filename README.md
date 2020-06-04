@@ -6,3 +6,4 @@ Here's the code from my Text Algorithms classes that took place on AGH Universit
 <a href="https://github.com/LucasJezap/TextAlgorithms/tree/master/Lab3"> Laboratories 3  
 <a href="https://github.com/LucasJezap/TextAlgorithms/tree/master/Lab4"> Laboratories 4  
 <a href="https://github.com/LucasJezap/TextAlgorithms/tree/master/Lab5"> Laboratories 5  
+<a href="https://github.com/LucasJezap/TextAlgorithms/tree/master/Lab6"> Laboratories 6  
